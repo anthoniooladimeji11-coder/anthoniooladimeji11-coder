@@ -7,27 +7,19 @@ Currently founding **[Ìyàwó](https://iyawo.vercel.app)**, a clinical decision
 ---
 
 **What I'm doing now**
-- 🏥 Scaling Ìyàwó across Oyo State — clinical safety layer, IRB, research pipeline
-- 📊 Building IyàwóBench — the first LLM triage benchmark for Nigerian PHC settings
-- 🧪 AI lead on [GENSCORE](#) — Wellcome Trust + Google Research mental health screening
-- 🔒 Country Lead, AI Safety Nigeria
+- 🏥 Scaling LLMs for clinical safety layer, IRB, research pipeline
+- 🔒 Country Lead, AI SafetyX Nigeria
+- Building and Building
 
 **Some things I've worked on**
 - 🇺🇳 UN AI Lead, ITU (United Nations)
 - 🇪🇺 AI & Technical Lead, EU Horizon AERiAL (€6.5M)
 - 🌍 PI, Gender-Social Burden Index — World Bank / Japan
-- 🧠 AI Lead, Gates Foundation mental health screening pilot
+- 🧠 AI Lead, Genscore Wellcome Trust/Gates Foundation mental health screening pilot
 
 **Background**
 B.Sc. Human Nutrition & Dietetics, University of Ibadan. Self-taught engineer. I read papers, then I ship.
 
-**Publications** (selected)
-- *BMC Nutrition* — AI nutritional advice vs registered dietitians (2024)
-- *Current Developments in Nutrition (ASN)* — food insecurity modelling (2025)
-- *Health Equity Journal* — CNNs for nutritional status (2025)
-- *BMJ Nutrition, Prevention & Health* — USDA food database clustering (under review)
-
----
 
 **Stack I actually use**
 Python · TypeScript · React · Node · Prisma · PostgreSQL · PyTorch · LLM pipelines · Supabase · Railway · Vercel
