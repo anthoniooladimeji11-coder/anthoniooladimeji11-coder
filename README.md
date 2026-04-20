@@ -1,6 +1,6 @@
 ### Hi, I'm Anthonio 👋
 
-I build AI systems for problems most people don't get paid to solve — clinical triage in low-resource health centres, food security, mental health screening, agricultural finance.
+I build AI systems for problems most people don't get paid to solve — clinical triage in low-resource health centres, health screening, federated health systems.
 
 Currently founding **[Ìyàwó](https://iyawo.vercel.app)**, a clinical decision support tool for Community Health Extension Workers at Nigerian Primary Health Centres. Live at 19 PHCs in Oyo State, approved for 264, 1,000+ real cases triaged.
 
