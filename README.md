@@ -15,7 +15,7 @@ Currently founding **[Ìyàwó](https://iyawo.vercel.app)**, a clinical decision
 
 **Some things I've worked on**
 - 🇺🇳 UN AI Lead, ITU (United Nations)
-- 🇪🇺 AI & Technical Lead, EU Horizon AERiAL (€6.5M)
+- 🇪🇺 AI & Technical Lead, EU Horizon AERiAL 
 - 🌍 PI, Gender-Social Burden Index — World Bank / Japan
 - 🧠 AI Lead, Genscore Wellcome Trust/Gates Foundation mental health screening pilot
 
