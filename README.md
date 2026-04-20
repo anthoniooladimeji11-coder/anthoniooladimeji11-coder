@@ -9,7 +9,9 @@ Currently founding **[Ìyàwó](https://iyawo.vercel.app)**, a clinical decision
 **What I'm doing now**
 - 🏥 Scaling LLMs for clinical safety layer, IRB, research pipeline
 - 🔒 Country Lead, AI SafetyX Nigeria
-- Building and Building
+- Founder **[Ìyàwó](https://iyawo.vercel.app)**
+- 🧠 Cracked Researcher
+- 📊 Building for my famliy
 
 **Some things I've worked on**
 - 🇺🇳 UN AI Lead, ITU (United Nations)
