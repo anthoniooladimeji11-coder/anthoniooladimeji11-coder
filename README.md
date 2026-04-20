@@ -22,7 +22,7 @@ B.Sc. Human Nutrition & Dietetics, University of Ibadan. Self-taught engineer. I
 
 
 **Stack I actually use**
-Python · TypeScript · React · Node · Prisma · PostgreSQL · PyTorch · LLM pipelines · Supabase · Railway · Vercel
+Python · TypeScript · JavaScript · SQL · React · Node · Prisma · PostgreSQL · PyTorch · LLM pipelines · Supabase · Railway · Vercel · Linux · Git
 
 **Find me**
 📧 anthoniooladimeji11@gmail.com · 🐦 [@toniogabby](https://x.com/toniogabby) · 💼 [LinkedIn](https://linkedin.com/in/oladimeji-anthonio) · 🌐 [Personal site](https://anthoniooladimeji11-coder.github.io/anthonio-site)
